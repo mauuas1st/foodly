@@ -88,4 +88,10 @@ List<Map<String, dynamic>> demoData = [
     "text":
         "Easily find your type of food craving and\nyou’ll get delivery in wide range.",
   },
+  {
+    "illustration": "assets/Illustrations/Illustrations_1.svg",
+    "title": "Makan Sabun",
+    "text":
+        "Mantap,, Easily find your type of food craving and\nyou’ll get delivery in wide range.",
+  },
 ];

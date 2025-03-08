@@ -35,6 +35,7 @@ class MyApp extends StatelessWidget {
           hintStyle: TextStyle(color: bodyTextColor),
         ),
       ),
+      debugShowCheckedModeBanner: false,
       home: const OnboardingScreen(),
     );
   }
